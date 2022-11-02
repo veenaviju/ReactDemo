@@ -1,0 +1,17 @@
+C:\Users\veena.v\source\repos\react\application\bin\Debug\net6.0\application.deps.json
+C:\Users\veena.v\source\repos\react\application\bin\Debug\net6.0\application.dll
+C:\Users\veena.v\source\repos\react\application\bin\Debug\net6.0\application.pdb
+C:\Users\veena.v\source\repos\react\application\bin\Debug\net6.0\domain.dll
+C:\Users\veena.v\source\repos\react\application\bin\Debug\net6.0\persistence.dll
+C:\Users\veena.v\source\repos\react\application\bin\Debug\net6.0\domain.pdb
+C:\Users\veena.v\source\repos\react\application\bin\Debug\net6.0\persistence.pdb
+C:\Users\veena.v\source\repos\react\application\obj\Debug\net6.0\application.csproj.AssemblyReference.cache
+C:\Users\veena.v\source\repos\react\application\obj\Debug\net6.0\application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veena.v\source\repos\react\application\obj\Debug\net6.0\application.AssemblyInfoInputs.cache
+C:\Users\veena.v\source\repos\react\application\obj\Debug\net6.0\application.AssemblyInfo.cs
+C:\Users\veena.v\source\repos\react\application\obj\Debug\net6.0\application.csproj.CoreCompileInputs.cache
+C:\Users\veena.v\source\repos\react\application\obj\Debug\net6.0\application.csproj.CopyComplete
+C:\Users\veena.v\source\repos\react\application\obj\Debug\net6.0\application.dll
+C:\Users\veena.v\source\repos\react\application\obj\Debug\net6.0\refint\application.dll
+C:\Users\veena.v\source\repos\react\application\obj\Debug\net6.0\application.pdb
+C:\Users\veena.v\source\repos\react\application\obj\Debug\net6.0\ref\application.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gnkC+9D+mm0Ao0R62juBgDZ1pPInHX8R2hwf7rZHh8l3SBhYuGRQ6bUUxlqfdnfNO8IRbQJpPzJN/GAmYofISQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\veena.v\\source\\repos\\react\\API\\api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veena.v\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\veena.v\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\veena.v\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\veena.v\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\veena.v\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\veena.v\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
